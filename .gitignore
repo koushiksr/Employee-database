@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.angular
+
+# Angular
+/dist
+/e2e/*.log
+
+# Angular testing
+/node_modules/
+/e2e/*.js
+
+# MongoDB data directory
+/data/db
+
+# Express.js generated files
+/build
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependency directories
+/bower_components/
